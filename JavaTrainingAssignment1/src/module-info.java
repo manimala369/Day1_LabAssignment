@@ -1,0 +1,2 @@
+module JavaTrainingAssignment1 {
+}
